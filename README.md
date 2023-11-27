@@ -58,7 +58,7 @@
  </a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
  </a>
- <a href="https://registry.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://boxboat.com/2020/02/04/writing-a-custom-terraform-provider/featured.png" alt="terraform" width="60" height="60"/> 
+ <a href="https://registry.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://boxboat.com/2020/02/04/writing-a-custom-terraform-provider/featured.png" alt="terraform" width="40" height="40"/> 
  </a>
 </div>
 
